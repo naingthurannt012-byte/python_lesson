@@ -2,7 +2,7 @@ x = 0
 
 if x > 5:
     print("x is greater than 5")
-  else:  # Incorrect indentation
+else:  # Incorrect indentation
     print("x is less than or equal to 5")
 
 flag = False

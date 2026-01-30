@@ -8,7 +8,7 @@
 # second_num = int(input('Enter a second number:'))
 # sumProblem(first_num,second_num)
 from math import sqrt,cell,pi,factorial
-num = int(inpit('Enter number:'))
+num = int(input('Enter number:'))
 root = sqrt(num)
 print('Square root of',num,'=',root)
 print('Pi value:',pi)
